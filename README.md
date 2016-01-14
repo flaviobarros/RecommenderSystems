@@ -1,2 +1,4 @@
-# RecommenderSystems
-Atividades do curso Recommender Systems do Coursera.
+RecommenderSystems
+==================
+
+Atividades do curso [Recommender Systems](https://www.coursera.org/learn/recommender-systems) do Coursera.
